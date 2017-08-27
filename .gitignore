@@ -1,2 +1,4 @@
-.vagrant
-Gemfile.lock
+# Container volumes
+puppet/
+puppetdb/
+puppetdb-postgres/
